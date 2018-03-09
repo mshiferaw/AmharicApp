@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--create ConstraintLayout for whole page-->
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jiajiaz98.myfirstapp.AlphabetActivity">
+
+    <!--create first gridview, which will display the header-->
+    <!--create 7 columns, fix it at the top, and make each cell unclickable-->
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridview1"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:layout_marginBottom="477dp"
+        android:clickable="false"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="0dp"
+        android:numColumns="7"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--create second gridview, which will display the Amharic alphabet-->
+    <!--create seven columns, fix it below the header, and make each cell clickable-->
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridview2"
+        android:layout_width="match_parent"
+        android:layout_height="477dp"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="0dp"
+        android:numColumns="7"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--create LinearLayout for homepage-->
+<!--set background color and enable page click-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    tools:context="com.example.jiajiaz98.myfirstapp.MainActivity"
+    android:background="#582A72"
+    android:onClick="onSplashPageClick">
+
+    <!--create TextView that displays name of app-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:text="@string/amharic"
+        android:textSize="50sp"
+        android:textColor="#CD88AF"/>
+</LinearLayout>

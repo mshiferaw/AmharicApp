@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Amharic</string>
+    <string name="title_activity_alphabet">alphabet</string>
+    <string name="action_settings">Settings</string>
+    <string name="ha_sound">ha sound</string>
+
+    <string name="ha">ሀ</string>
+    <string name="hu">ሁ</string>
+    <string name="hi">ሂ</string>
+    <string name="haa">ሃ</string>
+    <string name="hae">ሄ</string>
+    <string name="h">ህ</string>
+    <string name="ho">ሆ</string>
+
+    <string name="le">ለ</string>
+    <string name="lu">ሉ</string>
+    <string name="li">ሊ</string>
+    <string name="laa">ላ</string>
+    <string name="lae">ሌ</string>
+    <string name="l">ል</string>
+    <string name="lo">ሎ</string>
+
+    <string name="hha">ሐ</string>
+    <string name="hhu">ሑ</string>
+    <string name="hhi">ሒ</string>
+    <string name="hhaa">ሓ</string>
+    <string name="hhae">ሔ</string>
+    <string name="hh">ሕ</string>
+    <string name="hho">ሖ</string>
+
+    <string name="me">መ</string>
+    <string name="mu">ሙ</string>
+    <string name="mi">ሚ</string>
+    <string name="maa">ማ</string>
+    <string name="mae">ሜ</string>
+    <string name="m">ም</string>
+    <string name="mo">ሞ</string>
+
+    <string name="sze">ሠ</string>
+    <string name="szu">ሡ</string>
+    <string name="szi">ሢ</string>
+    <string name="szaa">ሣ</string>
+    <string name="szae">ሤ</string>
+    <string name="sz">ሥ</string>
+    <string name="szo">ሦ</string>
+
+    <string name="re">ረ</string>
+    <string name="ru">ሩ</string>
+    <string name="ri">ሪ</string>
+    <string name="raa">ራ</string>
+    <string name="rae">ሬ</string>
+    <string name="r">ር</string>
+    <string name="ro">ሮ</string>
+
+    <string name="se">ሰ</string>
+    <string name="su">ሱ</string>
+    <string name="si">ሲ</string>
+    <string name="saa">ሳ</string>
+    <string name="sae">ሴ</string>
+    <string name="s">ስ</string>
+    <string name="so">ሶ</string>
+
+    <string name="she">ሸ</string>
+    <string name="shu">ሹ</string>
+    <string name="shi">ሺ</string>
+    <string name="shaa">ሻ</string>
+    <string name="shae">ሼ</string>
+    <string name="sh">ሽ</string>
+    <string name="sho">ሾ</string>
+
+    <string name="qe">ቀ</string>
+    <string name="qu">ቁ</string>
+    <string name="qi">ቂ</string>
+    <string name="qaa">ቃ</string>
+    <string name="qae">ቄ</string>
+    <string name="q">ቅ</string>
+    <string name="qo">ቆ</string>
+    <string name="amharic">Amharic</string>
+
+
+</resources>
